@@ -1,0 +1,1 @@
+java -cp ../lib/* JoeRobot.java >nul
