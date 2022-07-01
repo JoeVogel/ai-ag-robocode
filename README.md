@@ -24,6 +24,12 @@ ROBOCODE: robocode.jar que está na pasta /libs dentro da instalação do roboco
 
 Com isso, será aberto o robocode e criadas algumas batalhas já incluindo o robo AGRobot
 
+### Versões utilizadas neste projeto
+
+JDK 11.0.12
+JGAP 3.6.3
+Robocode 1.9.4.6
+
 ### Programação
 
 Agora com o projeto funcionando, podemos criar nosso próprio robô
